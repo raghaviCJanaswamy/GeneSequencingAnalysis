@@ -45,7 +45,6 @@ From the 7 files, the pass/Fail of the total attributes are as in Figure 1. Fast
 
 ![](FASTQCResults.png)	 
 
-
 The Basic sequences of the files processed are in the Table 1. Basic Statistics.
 
 ![](BasicStats.png)	 
