@@ -1,0 +1,66 @@
+/home/rjanaswamy/miniforge3/bin/quast ISO2.fasta
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-3.10.0-1160.88.1.el7.x86_64-x86_64-with-glibc2.17 (linux_64)
+  Python version: 3.10.12
+  CPUs number: 8
+
+Started: 2023-10-22 04:48:24
+
+Logging to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/quast.log
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /home/rjanaswamy/Project1/03_SPADES/FASTA
+Main parameters: 
+  MODE: default, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  ISO2.fasta ==> ISO2
+
+2023-10-22 04:48:25
+Running Basic statistics processor...
+  Contig files: 
+    ISO2
+  Calculating N50 and L50...
+    ISO2, N50 = 204914, L50 = 9, auN = 239805.7, Total length = 5841551, GC % = 33.67, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/GC_content_plot.pdf
+  Drawing ISO2 GC content plot...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/ISO2_GC_content_plot.pdf
+  Drawing Coverage histogram (bin size: 28x)...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/coverage_histogram.pdf
+  Drawing ISO2 coverage histogram (bin size: 28x)...
+    saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/basic_stats/ISO2_coverage_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-10-22 04:48:28
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2023-10-22 04:48:29
+RESULTS:
+  Text versions of total report are saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/report.html
+  PDF version (tables and plots) is saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/report.pdf
+  Icarus (contig browser) is saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/icarus.html
+  Log is saved to /home/rjanaswamy/Project1/03_SPADES/FASTA/quast_results/results_2023_10_22_04_48_24/quast.log
+
+Finished: 2023-10-22 04:48:29
+Elapsed time: 0:00:05.232614
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
