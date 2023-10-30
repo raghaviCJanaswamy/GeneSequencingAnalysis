@@ -43,12 +43,12 @@ FastQC results that anlayzed the DNA Sequence data as are bellow.
 
 From the 7 files, the pass/Fail of the total attributes are as in Figure 1. FastQC results by File. 
 
-![](FASTQCResults.png)	 
+![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/FASTQCResults.png)	 
 
 
 The Basic sequences of the files processed are in the Table 1. Basic Statistics.
 
-![](BasicStats.png)	 
+![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/BasicStats.png)	 
       	 
  	 
   	 
@@ -80,7 +80,7 @@ The quality assessment results using the QUAST tool are compared as below.
 The distibution of the contigs lengths of ISO1, ISO2 and ISO3 are depicted in the Nx Plot: Table 2. Nx Plots
 
 
- ![](NXShots.png)	 	 
+ ![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/NXShots.png)	 	 
  	
 Table 2. Nx Plots
 
@@ -88,21 +88,19 @@ Table 2. Nx Plots
 The GC content of the contigs are found to be as shown in the Table 3. GC Content 
 
  
- 	![](GCContent.png)	  
+ 	![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/GCContent.png)	  
  	
 Table 3. GC Content
 
 The N50, L50 scores, Total contigs, largest contigs, are as detailed in the Table 4. Quast summary for ISO1, ISO2 and ISO3
 
-![](QuastSummary.png)	 
+![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/QuastSummary.png)	 
 
 Table 4. Quast summary for ISO1, ISO2 and ISO3
 
 The Contigs, N40 are reported as in Figure 2. N40, Contigs for Assemblies
 
-![](N40Summary.png)	 
-
-
+![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/N40Summary.png)	 
 
 
 ### Conclusion
