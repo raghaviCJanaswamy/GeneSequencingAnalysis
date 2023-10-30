@@ -43,8 +43,7 @@ FastQC results that anlayzed the DNA Sequence data as are bellow.
 
 From the 7 files, the pass/Fail of the total attributes are as in Figure 1. FastQC results by File. 
 
-![](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/FASTQCResults.png)	 
-
+![image](https://github.com/raghaviCJanaswamy/GeneSequencingAnalysis/tree/main/img/FASTQCResults.png)	 
 
 The Basic sequences of the files processed are in the Table 1. Basic Statistics.
 
